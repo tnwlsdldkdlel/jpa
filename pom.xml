@@ -18,7 +18,7 @@
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
-			<version>8.0.27</version>
+			<version>8.0.30</version>
 		</dependency>
 
 		<!-- java11버전부터 jaxb가 삭제되었기 때문에 추가해야함 -->
